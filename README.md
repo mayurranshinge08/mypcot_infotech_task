@@ -1,6 +1,6 @@
 # mypcot_infotech_task
 
-A new Flutter project.
+
 ![Image Alt](https://github.com/mayurranshinge08/mypcot_infotech_task/blob/d4e41870db0f7184585682c4103370b9f80dfe96/page1.png)
 ![Image Alt](https://github.com/mayurranshinge08/mypcot_infotech_task/blob/d4e41870db0f7184585682c4103370b9f80dfe96/page2.png)
 ![Image Alt](https://github.com/mayurranshinge08/mypcot_infotech_task/blob/d4e41870db0f7184585682c4103370b9f80dfe96/page_3.png)
